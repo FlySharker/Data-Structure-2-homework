@@ -1,0 +1,13 @@
+﻿  BTMain.cpp
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BT.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(12,10): error C2001: 常量中有换行符
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(13,2): error C2146: 语法错误: 缺少“;”(在标识符“a”的前面)
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(15,10): error C2001: 常量中有换行符
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(16,2): error C2146: 语法错误: 缺少“;”(在标识符“a”的前面)
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(18,10): error C2001: 常量中有换行符
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(19,2): error C2146: 语法错误: 缺少“;”(在标识符“a”的前面)
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(25,10): error C2001: 常量中有换行符
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(26,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(35,10): error C2001: 常量中有换行符
+C:\Users\f'l'y\Desktop\Me\Course\DataStructure\Tree\BinaryTree\BTMain.cpp(36,2): error C2146: 语法错误: 缺少“;”(在标识符“a”的前面)
