@@ -1,0 +1,1 @@
+#include "Assistance.h"			 // 辅助软件包
